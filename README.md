@@ -13,7 +13,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Pre-release](https://img.shields.io/badge/status-alpha-orange)](https://github.com/nacer0s/athar/releases)
 
-[🌐 Website](https://nacer0s.github.io/athar/) · [📥 Download APK](https://github.com/nacer0s/athar/releases/download/Athar.apk) · [📋 Releases](https://github.com/nacer0s/athar/releases)
+[🌐 Website](https://nacer0s.github.io/athar/) · [📥 Download APK](https://github.com/nacer0s/athar/releases/download/Athar_Alpha/Athar.apk) · [📋 Releases](https://github.com/nacer0s/athar/releases)
 
 </div>
 
@@ -33,7 +33,7 @@ fully bilingual in **Arabic** and **English** with complete RTL support.
 
 ### Android
 
-1. [**Download the latest APK →**](https://github.com/nacer0s/athar/releases/latest/download/app-release.apk)
+1. [**Download the latest APK →**](https://github.com/nacer0s/athar/releases/download/Athar_Alpha/Athar.apk)
 2. On your device: **Settings → Install unknown apps → Allow**
 3. Open the downloaded APK and tap Install
 4. Launch **Athar أثر**
